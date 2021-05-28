@@ -1,0 +1,16 @@
+{
+  "name": "bye",
+  "version": "1.0.0",
+  "description": "A whatsapp bot to test out venom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "venom-bot": "^3.0.17",
+    "youtube-dl-exec": "^1.2.3"
+  }
+}
