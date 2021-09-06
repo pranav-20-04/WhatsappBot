@@ -5,5 +5,8 @@ Noting fancy really, it only has 2 commands (I don't plan on adding more or main
 - mp3: Grabs an mp3 file from an youtube video
 - wiki: Grabs summary for a wikipedia article
 
+# Archived
+This was a fun toy to play with.
+
 # License
 This project is licensed under _[Do What The F*ck You Want To Public License](http://www.wtfpl.net/about/)_
