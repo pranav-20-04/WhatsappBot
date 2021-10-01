@@ -59,3 +59,7 @@ function onReady(client) {
         }
     })
 }
+
+function hello(){
+    console.log("hello world")
+}
